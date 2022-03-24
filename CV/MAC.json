@@ -281,6 +281,31 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Se chove, que chova",
+          "description": "Weather Android application made with Ionic 5 and React 16.\n\nData from Aemet API and OpenWeatherMap API.\n\nhttps://github.com/ylagef/sechovequechova",
+          "URL": "https://play.google.com/store/apps/details?id=com.ylagef.sechovequechova"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-10-01",
+            "finishDate": "2020-10-01",
+            "competences": [
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
