@@ -206,7 +206,7 @@
       {
         "details": {
           "name": "Your war",
-          "description": "Personal project based on the @spanishwarbot Twitter account idea, where users can create and share their own wars.",
+          "description": "Personal project based on the @spanishwarbot Twitter account idea, where users can create and share their own wars.\n\nFrontend: Angular 7 with Bootstrap\nBackend: Firebase's Firestore + Hosting",
           "URL": "https://github.com/ylagef/your-war"
         },
         "type": "sideProject",
