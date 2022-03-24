@@ -128,6 +128,62 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Plexus, S.L.",
+          "URL": "https://www.plexus.es/"
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2018-06-01",
+            "finishDate": "2018-08-01",
+            "challenges": [
+              {
+                "description": "Prácticas extracurriculares en el departamento de Desarrollo Web Frontend."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
