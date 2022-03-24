@@ -443,23 +443,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "JavaScript",
-          "type": "technology"
-        },
-        {
-          "name": "NodeJS",
-          "type": "technology"
-        },
-        {
           "name": "React",
-          "type": "technology"
-        },
-        {
-          "name": "HTML",
-          "type": "technology"
-        },
-        {
-          "name": "CSS",
           "type": "technology"
         },
         {
@@ -471,7 +455,23 @@
           "type": "technology"
         },
         {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
           "name": "Scss",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
           "type": "technology"
         }
       ],
@@ -506,6 +506,14 @@
         },
         {
           "name": "CakePHP",
+          "type": "technology"
+        },
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "AngularJS",
           "type": "technology"
         }
       ]
