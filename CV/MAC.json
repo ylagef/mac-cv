@@ -390,6 +390,21 @@
       }
     ]
   },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Ingeniería de Tecnologías de Telecomunicación",
+        "startDate": "2013-09-01",
+        "finishDate": "2016-06-01",
+        "institution": {
+          "name": "Universidade de Vigo",
+          "description": "Sin finalizar.\n"
+        }
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
