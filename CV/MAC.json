@@ -166,6 +166,10 @@
                 "type": "technology"
               },
               {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
                 "name": "CSS",
                 "type": "technology"
               },
