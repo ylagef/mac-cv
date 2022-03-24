@@ -271,6 +271,18 @@
             "finishDate": "2020-05-01",
             "competences": [
               {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
                 "name": "Angular2+",
                 "type": "technology"
               },
