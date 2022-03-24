@@ -201,6 +201,37 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Your war",
+          "description": "Personal project based on the @spanishwarbot Twitter account idea, where users can create and share their own wars.",
+          "URL": "https://github.com/ylagef/your-war"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-07-01",
+            "finishDate": "2019-08-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
