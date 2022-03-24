@@ -373,6 +373,10 @@
             "finishDate": "2022-02-01",
             "competences": [
               {
+                "name": "Netlify",
+                "type": "technology"
+              },
+              {
                 "name": "JavaScript",
                 "type": "technology"
               },
