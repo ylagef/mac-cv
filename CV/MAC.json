@@ -296,6 +296,18 @@
             "finishDate": "2020-10-01",
             "competences": [
               {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
                 "name": "Ionic",
                 "type": "technology"
               },
