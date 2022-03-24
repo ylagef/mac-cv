@@ -413,6 +413,17 @@
           "name": "Politechnika Krakowska im. Tadeusza Kościuszki",
           "description": "Erasmus student at Politechnika Krakowska, Krakow, Poland."
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Ingeniería Informática",
+        "startDate": "2016-09-01",
+        "finishDate": "2019-05-01",
+        "institution": {
+          "name": "Universidade de Vigo",
+          "description": "Grado en Ingeniería Informática.\n\nAdicionalmente:\nColaborador en el grupo de investigación SING Research Group, desarrollando el proyecto BDP4J que posteriormente pasó a convertirse en mi TFG."
+        }
       }
     ]
   },
