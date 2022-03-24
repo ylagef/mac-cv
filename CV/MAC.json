@@ -473,10 +473,6 @@
         {
           "name": "Scss",
           "type": "technology"
-        },
-        {
-          "name": "NodeJS",
-          "type": "technology"
         }
       ],
       "discardedCompetences": [
@@ -518,6 +514,10 @@
         },
         {
           "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "Django",
           "type": "technology"
         }
       ]
