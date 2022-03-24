@@ -1,0 +1,38 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Yeray",
+      "surnames": "Lage",
+      "title": "Frontend developer",
+      "description": "Con 3 años de experiencia profesional en el mundo del desarrollo web, principalmente frontend (Angular, React, NextJS, React Native) y con pinceladas de backend (Node, Django...), y tras haber finalizado el Grado en Ingeniería Informática, soy un apasionado de la tecnología y el desarrollo.\nMe gusta invertir mi tiempo libre en aprender nuevas tecnologías y llevar a cabo proyectos pequeños para practicar con ellas, y siempre estar al día de lo último.",
+      "location": {
+        "notes": "Ourense, Galicia"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/yeraylage/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/ylagef"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/yeraylage/"
+        }
+      ]
+    }
+  }
+}
