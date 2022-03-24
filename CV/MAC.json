@@ -256,6 +256,31 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Tic Tac Shake",
+          "description": "Web game based on the traditional \"tic-tac-toe\", developed in Angular 9 and NodeJS.",
+          "URL": "https://github.com/ylagef/tic-tac-shake"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-05-01",
+            "finishDate": "2020-05-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
