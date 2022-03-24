@@ -306,6 +306,39 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Amiwordle",
+          "description": "Based on the famous \"Wordle\" game, Amiwordle is a word-quizz game that I've developed in order to try Remix.run framework.\n\nhttps://github.com/ylagef/amiwordle",
+          "URL": "https://amiwordle.netlify.app/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-02-01",
+            "finishDate": "2022-02-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
