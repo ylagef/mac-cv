@@ -402,6 +402,17 @@
           "name": "Universidade de Vigo",
           "description": "Sin finalizar.\n"
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Engineering & Computer Science",
+        "startDate": "2017-09-01",
+        "finishDate": "2018-02-01",
+        "institution": {
+          "name": "Politechnika Krakowska im. Tadeusza Kościuszki",
+          "description": "Erasmus student at Politechnika Krakowska, Krakow, Poland."
+        }
       }
     ]
   },
