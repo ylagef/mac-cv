@@ -73,6 +73,61 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Sticky Bit"
+        },
+        "roles": [
+          {
+            "name": "Full-stack developer",
+            "startDate": "2019-07-01",
+            "finishDate": "2021-04-01",
+            "challenges": [
+              {
+                "description": "Análisis y desarrollo full-stack de diferentes proyectos con tecnologías como: Angular, Django, Docker, MongoDB, NodeJS, Ionic..."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
