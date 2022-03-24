@@ -235,7 +235,7 @@
       {
         "details": {
           "name": "All The Fruits",
-          "description": "On the occasion of the COVID-19 quarantine, I developed a game based on the idea of the classic \"Tuttifrutti\" so that groups of friends could play online as easily as possible.\n\nhttps://github.com/ylagef/all-the-fruits/",
+          "description": "On the occasion of the COVID-19 quarantine, I developed a game based on the idea of the classic \"Tuttifrutti\" so that groups of friends could play online as easily as possible.\n\nDeveloped with Firebase (Firestore and Hosting) and Angular 8.\n\nhttps://github.com/ylagef/all-the-fruits/",
           "URL": "http://www.atfgame.es/"
         },
         "type": "sideProject",
