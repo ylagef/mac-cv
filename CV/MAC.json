@@ -9,7 +9,11 @@
       "name": "Yeray",
       "surnames": "Lage",
       "title": "Frontend developer",
-      "description": "Con 3 años de experiencia profesional en el mundo del desarrollo web, principalmente frontend (Angular, React, NextJS, React Native) y con pinceladas de backend (Node, Django...), y tras haber finalizado el Grado en Ingeniería Informática, soy un apasionado de la tecnología y el desarrollo.\nMe gusta invertir mi tiempo libre en aprender nuevas tecnologías y llevar a cabo proyectos pequeños para practicar con ellas, y siempre estar al día de lo último.",
+      "description": "Con 3 años de experiencia profesional en el mundo del desarrollo web principalmente en frontend (Angular, React, NextJS, React Native) y con pinceladas de backend (Node, Django...), y tras haber finalizado el Grado en Ingeniería Informática, soy un apasionado de la tecnología y el desarrollo.\nMe gusta invertir mi tiempo libre en aprender nuevas tecnologías y llevar a cabo proyectos pequeños para practicar con ellas, intentando estar siempre al día de lo último.",
+      "avatar": {
+        "alt": "Screenshot 2022-03-24 at 18.40.08.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/354f988d-f639-4f63-bbb0-f8976cf49d86_screenshot-2022-03-2.png"
+      },
       "location": {
         "notes": "Ourense, Galicia"
       }
@@ -433,6 +437,76 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/yeraylage/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        },
+        {
+          "name": "Scss",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaFX",
+          "type": "technology"
+        },
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "C",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "C++",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "CakePHP",
+          "type": "technology"
         }
       ]
     }
