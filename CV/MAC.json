@@ -209,6 +209,25 @@
     "projects": [
       {
         "details": {
+          "name": "Tech-scrapper",
+          "description": "Debido a la alta demanda de consolas Playstation 5, he desarrollado un bot scrapper que detecta cuándo hay cambios de stock y así poder adquirirlas tanto para mí como para mis cercanos."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-11-01",
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Amiwordle",
           "description": "Based on the famous \"Wordle\" game, Amiwordle is a word-quizz game that I've developed in order to try Remix.run framework.\n\nhttps://github.com/ylagef/amiwordle",
           "URL": "https://amiwordle.netlify.app/"
