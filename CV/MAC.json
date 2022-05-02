@@ -9,7 +9,7 @@
       "name": "Yeray",
       "surnames": "Lage",
       "title": "Frontend developer",
-      "description": "Con 3 años de experiencia profesional en el mundo del desarrollo web principalmente en frontend (Angular, React, NextJS, React Native) y con pinceladas de backend (Node, Django...), y tras haber finalizado el Grado en Ingeniería Informática, soy un apasionado de la tecnología y el desarrollo.\nMe gusta invertir mi tiempo libre en aprender nuevas tecnologías y llevar a cabo proyectos pequeños para practicar con ellas, intentando estar siempre al día de lo último.",
+      "description": "Desarrollador Frontend con 3 años de experiencia profesional tanto en el análisis como en el desarrollo de aplicaciones web y móvil híbrido.\n\nPrincipalmente Javascript/Typescript, CSS/SCSS, React, React Native, NextJS, NodeJS.\n\nLo que más me apasiona es el desarrollo Frontend y estar al día con las últimas tecnologías: Aprender, probar, practicar y colaborar. Los retos son mi principal motivación.\n\n“¿Cómo está hecho esto y cómo podría hacerlo yo?”",
       "avatar": {
         "alt": "Screenshot 2022-03-24 at 18.40.08.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/354f988d-f639-4f63-bbb0-f8976cf49d86_screenshot-2022-03-2.png"
@@ -20,17 +20,72 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/yeraylage/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/ylagef"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/yeraylage/"
       }
     ]
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Sealfy S,L.",
+          "URL": "https://sealfy.com/"
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "Responsable del desarrollo Frontend web y móvil con Angular, React, Next y React Native."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "React Native",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Sticky Bit, S.L.P."
@@ -47,23 +102,7 @@
             ],
             "competences": [
               {
-                "name": "Django",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
                 "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
                 "type": "technology"
               },
               {
@@ -71,7 +110,7 @@
                 "type": "technology"
               },
               {
-                "name": "MongoDB",
+                "name": "Django",
                 "type": "technology"
               },
               {
@@ -83,11 +122,27 @@
                 "type": "technology"
               },
               {
-                "name": "Scss",
+                "name": "HTML",
                 "type": "technology"
               },
               {
                 "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
                 "type": "technology"
               }
             ]
@@ -111,23 +166,7 @@
             ],
             "competences": [
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
                 "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
                 "type": "technology"
               },
               {
@@ -135,46 +174,11 @@
                 "type": "technology"
               },
               {
-                "name": "jQuery",
+                "name": "CSS",
                 "type": "technology"
               },
               {
                 "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Ionic",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sealfy S,L.",
-          "URL": "https://sealfy.com/"
-        },
-        "roles": [
-          {
-            "name": "Frontend developer",
-            "startDate": "2021-05-01",
-            "challenges": [
-              {
-                "description": "Responsable del desarrollo Frontend web y móvil con Angular, React, Next y React Native."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "React",
                 "type": "technology"
               },
               {
@@ -182,23 +186,19 @@
                 "type": "technology"
               },
               {
-                "name": "CSS",
+                "name": "Ionic",
                 "type": "technology"
               },
               {
-                "name": "React Native",
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
-                "name": "NextJS",
+                "name": "Vue",
                 "type": "technology"
               },
               {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Scss",
+                "name": "jQuery",
                 "type": "technology"
               }
             ]
@@ -209,27 +209,19 @@
     "projects": [
       {
         "details": {
-          "name": "Your war",
-          "description": "Personal project based on the @spanishwarbot Twitter account idea, where users can create and share their own wars.\n\nFrontend: Angular 7 with Bootstrap\nBackend: Firebase's Firestore + Hosting",
-          "URL": "https://github.com/ylagef/your-war"
+          "name": "Amiwordle",
+          "description": "Based on the famous \"Wordle\" game, Amiwordle is a word-quizz game that I've developed in order to try Remix.run framework.\n\nhttps://github.com/ylagef/amiwordle",
+          "URL": "https://amiwordle.netlify.app/"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2019-07-01",
-            "finishDate": "2019-08-01",
+            "startDate": "2022-02-01",
+            "finishDate": "2022-02-01",
             "competences": [
               {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "Firebase",
+                "name": "CSS",
                 "type": "technology"
               },
               {
@@ -237,11 +229,89 @@
                 "type": "technology"
               },
               {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Netlify",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Se chove, que chova",
+          "description": "Weather Android application made with Ionic 5 and React 16.\n\nData from Aemet API and OpenWeatherMap API.\n\nhttps://github.com/ylagef/sechovequechova",
+          "URL": "https://play.google.com/store/apps/details?id=com.ylagef.sechovequechova"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-10-01",
+            "finishDate": "2020-10-01",
+            "competences": [
+              {
                 "name": "CSS",
                 "type": "technology"
               },
               {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
                 "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Tic Tac Shake",
+          "description": "Web game based on the traditional \"tic-tac-toe\", developed in Angular 9 and NodeJS.",
+          "URL": "https://github.com/ylagef/tic-tac-shake"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-05-01",
+            "finishDate": "2020-05-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
                 "type": "technology"
               }
             ]
@@ -266,6 +336,10 @@
                 "type": "technology"
               },
               {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
                 "name": "Firebase",
                 "type": "technology"
               },
@@ -274,10 +348,6 @@
                 "type": "technology"
               },
               {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
                 "name": "JavaScript",
                 "type": "technology"
               }
@@ -287,56 +357,23 @@
       },
       {
         "details": {
-          "name": "Tic Tac Shake",
-          "description": "Web game based on the traditional \"tic-tac-toe\", developed in Angular 9 and NodeJS.",
-          "URL": "https://github.com/ylagef/tic-tac-shake"
+          "name": "Your war",
+          "description": "Personal project based on the @spanishwarbot Twitter account idea, where users can create and share their own wars.\n\nFrontend: Angular 7 with Bootstrap\nBackend: Firebase's Firestore + Hosting",
+          "URL": "https://github.com/ylagef/your-war"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2020-05-01",
-            "finishDate": "2020-05-01",
+            "startDate": "2019-07-01",
+            "finishDate": "2019-08-01",
             "competences": [
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
               {
                 "name": "Angular2+",
                 "type": "technology"
               },
               {
-                "name": "NodeJS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Se chove, que chova",
-          "description": "Weather Android application made with Ionic 5 and React 16.\n\nData from Aemet API and OpenWeatherMap API.\n\nhttps://github.com/ylagef/sechovequechova",
-          "URL": "https://play.google.com/store/apps/details?id=com.ylagef.sechovequechova"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2020-10-01",
-            "finishDate": "2020-10-01",
-            "competences": [
-              {
-                "name": "HTML",
+                "name": "Bootstrap",
                 "type": "technology"
               },
               {
@@ -344,44 +381,7 @@
                 "type": "technology"
               },
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Ionic",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Amiwordle",
-          "description": "Based on the famous \"Wordle\" game, Amiwordle is a word-quizz game that I've developed in order to try Remix.run framework.\n\nhttps://github.com/ylagef/amiwordle",
-          "URL": "https://amiwordle.netlify.app/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-02-01",
-            "finishDate": "2022-02-01",
-            "competences": [
-              {
-                "name": "Netlify",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Tailwind",
+                "name": "Firebase",
                 "type": "technology"
               },
               {
@@ -389,7 +389,7 @@
                 "type": "technology"
               },
               {
-                "name": "CSS",
+                "name": "JavaScript",
                 "type": "technology"
               }
             ]
@@ -399,18 +399,92 @@
     ]
   },
   "knowledge": {
-    "studies": [
+    "languages": [
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Grado en Ingeniería de Tecnologías de Telecomunicación",
-        "startDate": "2013-09-01",
-        "finishDate": "2016-06-01",
-        "institution": {
-          "name": "Universidade de Vigo",
-          "description": "Sin finalizar.\n"
+        "name": "English"
+      },
+      {
+        "name": "Galician"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
         }
       },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ionic",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
@@ -432,6 +506,17 @@
           "name": "Universidade de Vigo",
           "description": "Grado en Ingeniería Informática.\n\nAdicionalmente:\nColaborador en el grupo de investigación SING Research Group, desarrollando el proyecto BDP4J que posteriormente pasó a convertirse en mi TFG."
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Ingeniería de Tecnologías de Telecomunicación",
+        "startDate": "2013-09-01",
+        "finishDate": "2016-06-01",
+        "institution": {
+          "name": "Universidade de Vigo",
+          "description": "Sin finalizar.\n"
+        }
       }
     ]
   },
@@ -447,18 +532,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "React",
-          "type": "technology"
-        },
-        {
-          "name": "NextJS",
-          "type": "technology"
-        },
-        {
-          "name": "Tailwind",
-          "type": "technology"
-        },
-        {
           "name": "CSS",
           "type": "technology"
         },
@@ -471,21 +544,41 @@
           "type": "technology"
         },
         {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
           "name": "Scss",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
           "type": "technology"
         }
       ],
       "discardedCompetences": [
         {
-          "name": "JAVA",
-          "type": "technology"
-        },
-        {
-          "name": "JavaFX",
-          "type": "technology"
-        },
-        {
           "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "AngularJS",
           "type": "technology"
         },
         {
@@ -501,23 +594,23 @@
           "type": "technology"
         },
         {
-          "name": "PHP",
-          "type": "technology"
-        },
-        {
           "name": "CakePHP",
           "type": "technology"
         },
         {
-          "name": "Angular2+",
-          "type": "technology"
-        },
-        {
-          "name": "AngularJS",
-          "type": "technology"
-        },
-        {
           "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaFX",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
           "type": "technology"
         }
       ]
