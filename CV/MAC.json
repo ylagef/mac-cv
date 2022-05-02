@@ -432,12 +432,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Django",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "NodeJS",
           "type": "technology"
         }
