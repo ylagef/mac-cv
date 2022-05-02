@@ -209,7 +209,7 @@
     "projects": [
       {
         "details": {
-          "name": "Tech-scrapper",
+          "name": "Tech scrapper",
           "description": "Debido a la alta demanda de consolas Playstation 5, he desarrollado un bot scrapper que detecta cuándo hay cambios de stock y así poder adquirirlas tanto para mí como para mis cercanos."
         },
         "type": "sideProject",
