@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,13 +9,16 @@
       "name": "Yeray",
       "surnames": "Lage",
       "title": "Frontend developer",
-      "description": "Desarrollador Frontend con 3 años de experiencia profesional tanto en el análisis como en el desarrollo de aplicaciones web y móvil híbrido.\n\nPrincipalmente Javascript/Typescript, CSS/SCSS, React, React Native, NextJS, NodeJS.\n\nLo que más me apasiona es el desarrollo Frontend y estar al día con las últimas tecnologías: Aprender, probar, practicar y colaborar. Los retos son mi principal motivación.\n\n“¿Cómo está hecho esto y cómo podría hacerlo yo?”",
+      "description": "",
       "avatar": {
         "alt": "Screenshot 2022-03-24 at 18.40.08.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/354f988d-f639-4f63-bbb0-f8976cf49d86_screenshot-2022-03-2.png"
       },
       "location": {
-        "notes": "Ourense, Galicia"
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Ourense",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -210,7 +213,8 @@
       {
         "details": {
           "name": "Tech scrapper",
-          "description": "Debido a la alta demanda de consolas Playstation 5, he desarrollado un bot scrapper que detecta cuándo hay cambios de stock y así poder adquirirlas tanto para mí como para mis cercanos."
+          "description": "Debido a la alta demanda de consolas Playstation 5, he desarrollado un bot scrapper que detecta cuándo hay cambios de stock y así poder adquirirlas tanto para mí como para mis cercanos.",
+          "URL": ""
         },
         "type": "sideProject",
         "roles": [
@@ -420,22 +424,19 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Galician"
+        "name": "Galician",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "Angular2+",
@@ -444,7 +445,7 @@
       },
       {
         "skill": {
-          "name": "React",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -456,13 +457,7 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
+          "name": "React",
           "type": "technology"
         }
       },
@@ -474,7 +469,19 @@
       },
       {
         "skill": {
-          "name": "Express",
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ionic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
           "type": "technology"
         }
       },
@@ -486,13 +493,13 @@
       },
       {
         "skill": {
-          "name": "Tailwind",
+          "name": "Express",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Ionic",
+          "name": "Tailwind",
           "type": "technology"
         }
       }
@@ -626,7 +633,13 @@
           "name": "PHP",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Mobile Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
