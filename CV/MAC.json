@@ -458,18 +458,6 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React Native",
           "type": "technology"
         }
@@ -662,10 +650,6 @@
     "mainStackTechs": [
       {
         "name": "NextJS",
-        "type": "technology"
-      },
-      {
-        "name": "React",
         "type": "technology"
       },
       {
