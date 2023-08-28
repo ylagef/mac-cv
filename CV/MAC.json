@@ -434,12 +434,6 @@
       },
       {
         "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Ionic",
           "type": "technology"
         }
