@@ -446,12 +446,6 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "NextJS",
           "type": "technology"
         }
@@ -656,6 +650,10 @@
     "mainStackTechs": [
       {
         "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
         "type": "technology"
       },
       {
