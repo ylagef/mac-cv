@@ -497,6 +497,12 @@
           "name": "Tailwind",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -674,6 +680,10 @@
     "mainStackTechs": [
       {
         "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
         "type": "technology"
       },
       {
