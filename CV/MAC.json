@@ -452,12 +452,6 @@
       },
       {
         "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Ionic",
           "type": "technology"
         }
@@ -692,6 +686,10 @@
       },
       {
         "name": "Tailwind",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
         "type": "technology"
       }
     ],
