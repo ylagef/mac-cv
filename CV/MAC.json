@@ -434,6 +434,12 @@
       },
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
           "type": "technology"
         }
@@ -666,6 +672,14 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "React Native",
+        "type": "technology"
+      },
       {
         "name": "Tailwind",
         "type": "technology"
