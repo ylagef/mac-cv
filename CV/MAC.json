@@ -665,6 +665,12 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Tailwind",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaría poder trabajar en proyectos con tecnologías punteras que me den la oportunidad de investigar y encontrar las mejores soluciones.\n\nAdemás, los equipos multiculturales me parece que aportan un plus a la hora de aprender de diferentes entornos.\n\n",
     "projects": [
       {
