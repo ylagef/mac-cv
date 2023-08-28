@@ -1,36 +1,26 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Yeray",
       "surnames": "Lage",
-      "title": "Frontend developer",
-      "description": "",
+      "title": "Senior Frontend Developer",
+      "description": "Desarrollador Frontend con 3 años de experiencia profesional tanto en el análisis como en el desarrollo de aplicaciones web y móvil híbrido.\n\nPrincipalmente Javascript/Typescript, CSS/SCSS, React, React Native, NextJS, NodeJS.\n\nLo que más me apasiona es el desarrollo Frontend y estar al día con las últimas tecnologías: Aprender, probar, practicar y colaborar. Los retos son mi principal motivación.\n\n“¿Cómo está hecho esto y cómo podría hacerlo yo?”",
       "avatar": {
-        "alt": "Screenshot 2022-03-24 at 18.40.08.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/354f988d-f639-4f63-bbb0-f8976cf49d86_screenshot-2022-03-2.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/354f988d-f639-4f63-bbb0-f8976cf49d86_screenshot-2022-03-2.png",
+        "alt": "Screenshot 2022-03-24 at 18.40.08.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ63hTvLX-Lw0RnKO8dKMmUyk)",
         "country": "España",
         "region": "Galicia",
-        "municipality": "Ourense",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Ourense"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/ylagef"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/yeraylage/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -213,8 +203,7 @@
       {
         "details": {
           "name": "Tech scrapper",
-          "description": "Debido a la alta demanda de consolas Playstation 5, he desarrollado un bot scrapper que detecta cuándo hay cambios de stock y así poder adquirirlas tanto para mí como para mis cercanos.",
-          "URL": ""
+          "description": "Debido a la alta demanda de consolas Playstation 5, he desarrollado un bot scrapper que detecta cuándo hay cambios de stock y así poder adquirirlas tanto para mí como para mis cercanos."
         },
         "type": "sideProject",
         "roles": [
@@ -241,7 +230,6 @@
           {
             "name": "Developer",
             "startDate": "2022-02-01",
-            "finishDate": "2022-02-01",
             "competences": [
               {
                 "name": "CSS",
@@ -263,7 +251,8 @@
                 "name": "Tailwind",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2022-02-01"
           }
         ]
       },
@@ -278,7 +267,6 @@
           {
             "name": "Developer",
             "startDate": "2020-10-01",
-            "finishDate": "2020-10-01",
             "competences": [
               {
                 "name": "CSS",
@@ -300,7 +288,8 @@
                 "name": "React",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2020-10-01"
           }
         ]
       },
@@ -315,7 +304,6 @@
           {
             "name": "Developer",
             "startDate": "2020-05-01",
-            "finishDate": "2020-05-01",
             "competences": [
               {
                 "name": "Angular2+",
@@ -337,7 +325,8 @@
                 "name": "NodeJS",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2020-05-01"
           }
         ]
       },
@@ -352,7 +341,6 @@
           {
             "name": "Developer",
             "startDate": "2020-03-01",
-            "finishDate": "2020-03-01",
             "competences": [
               {
                 "name": "Angular2+",
@@ -363,7 +351,7 @@
                 "type": "technology"
               },
               {
-                "name": "Firebase",
+                "name": "Google Firebase",
                 "type": "technology"
               },
               {
@@ -374,7 +362,8 @@
                 "name": "JavaScript",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2020-03-01"
           }
         ]
       },
@@ -389,7 +378,6 @@
           {
             "name": "Developer",
             "startDate": "2019-07-01",
-            "finishDate": "2019-08-01",
             "competences": [
               {
                 "name": "Angular2+",
@@ -404,7 +392,7 @@
                 "type": "technology"
               },
               {
-                "name": "Firebase",
+                "name": "Google Firebase",
                 "type": "technology"
               },
               {
@@ -415,7 +403,8 @@
                 "name": "JavaScript",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2019-08-01"
           }
         ]
       }
@@ -424,15 +413,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Galician",
+        "name": "ES",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "GL",
         "level": "Limited working proficiency"
       }
     ],
@@ -445,37 +434,13 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React Native",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ionic",
+          "name": "Express",
           "type": "technology"
         }
       },
@@ -487,13 +452,37 @@
       },
       {
         "skill": {
+          "name": "Ionic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NextJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Express",
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
           "type": "technology"
         }
       },
@@ -510,32 +499,52 @@
         "degreeAchieved": true,
         "name": "Computer Engineering & Computer Science",
         "startDate": "2017-09-01",
-        "finishDate": "2018-02-01",
         "institution": {
           "name": "Politechnika Krakowska im. Tadeusza Kościuszki",
           "description": "Erasmus student at Politechnika Krakowska, Krakow, Poland."
-        }
+        },
+        "finishDate": "2018-02-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Grado en Ingeniería Informática",
         "startDate": "2016-09-01",
-        "finishDate": "2019-05-01",
         "institution": {
           "name": "Universidade de Vigo",
           "description": "Grado en Ingeniería Informática.\n\nAdicionalmente:\nColaborador en el grupo de investigación SING Research Group, desarrollando el proyecto BDP4J que posteriormente pasó a convertirse en mi TFG."
-        }
+        },
+        "finishDate": "2019-05-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Grado en Ingeniería de Tecnologías de Telecomunicación",
         "startDate": "2013-09-01",
-        "finishDate": "2016-06-01",
         "institution": {
           "name": "Universidade de Vigo",
           "description": "Sin finalizar.\n"
+        },
+        "finishDate": "2016-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacity for self-management ",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Creative thinking",
+          "type": "practice"
         }
       }
     ]
@@ -544,8 +553,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/yeraylage/"
+          "URL": "https://www.linkedin.com/in/yeraylage/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/ylagef",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "ylagef@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "622115687",
+          "countryCode": "+34"
         }
       ]
     },
@@ -641,5 +663,28 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría poder trabajar en proyectos con tecnologías punteras que me den la oportunidad de investigar y encontrar las mejores soluciones.\n\nAdemás, los equipos multiculturales me parece que aportan un plus a la hora de aprender de diferentes entornos.\n\n",
+    "projects": [
+      {
+        "name": "All The Fruits"
+      },
+      {
+        "name": "Amiwordle"
+      },
+      {
+        "name": "Se chove, que chova"
+      },
+      {
+        "name": "Tech scrapper"
+      },
+      {
+        "name": "Tic Tac Shake"
+      },
+      {
+        "name": "Your war"
+      }
+    ]
   }
 }
