@@ -428,19 +428,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
           "type": "technology"
         }
       },
